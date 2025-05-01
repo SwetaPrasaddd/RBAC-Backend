@@ -25,6 +25,6 @@ This is the backend for the **RBAC Blog App**, built with **Node.js**, **Express
 
 - npm install
 
-### 2. Run the Backend
+### 3. Run the Backend
 
 - npm run dev
